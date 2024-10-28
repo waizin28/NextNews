@@ -1,3 +1,5 @@
+<img width="1017" alt="Screenshot 2024-10-27 at 11 07 33 PM" src="https://github.com/user-attachments/assets/bfbfba85-a351-4e26-af9c-04d90d02c170">
+
 # NextNews
 
 NextNews is a dynamic and responsive news application built with Next.js. It allows users to explore the latest news, filter news articles by year and month, and keep up-to-date with recent events. Leveraging server-side rendering and Next.js’s routing, NextNews delivers a fast and smooth experience for users seeking current and past news stories.
